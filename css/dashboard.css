@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(255, 254, 254);
+}
+.nav-item p {
+    padding-top: 5px;
+    padding-right: 10px;
+    margin-right: 10px;
+    font-size: medium;
+}
+.profile-pic {
+    border: solid rgb(229, 225, 225);
+    width: 120px;
+    border-width: 1.5px;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;    background-color: white;
+}
+.pic {
+    font-size: 80px;
+    color: grey;
+    padding: 20px 23px;
+}
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.person-info p {
+    font-size: medium;
+    margin-bottom: 0px;
+}
+.info .person-info{
+    padding-right: 250px;
+}
+.edit-profile {
+    align-self: flex-end;
+}
+.edit-profile u {
+    color: black;
+}
+.user-interested {
+    background-color: rgba(243, 243, 243, 0.667);
+    max-width: 100%;
+    padding: 100px 20%;
+}
+.fa-heart{
+    padding-top: 8px;
+    padding-right: 13px;
+    
+}
+

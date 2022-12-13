@@ -34,3 +34,5 @@ echo "Your account has been created successfully";
 click <a href="../index.php">here</a> to continue.
 <?php
 mysqli_close($conn);
+
+
